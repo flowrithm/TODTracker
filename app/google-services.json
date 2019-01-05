@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005513247216",
+    "firebase_url": "https://todtracker.firebaseio.com",
+    "project_id": "todtracker",
+    "storage_bucket": "todtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005513247216:android:92c072bc39f036fb",
+        "android_client_info": {
+          "package_name": "com.flowrithm.todtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005513247216-b5t5ektatpppujkjrp97j322pk3m5k54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flowrithm.todtracker",
+            "certificate_hash": "b040ac6fa07fc742b9608c5a1954798775b85bbe"
+          }
+        },
+        {
+          "client_id": "1005513247216-c9185a5gu0h8d59qs1nbdjj1evons363.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64bkJ2PPMTSC5dhenAe-n77gZlpEK8co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005513247216-c9185a5gu0h8d59qs1nbdjj1evons363.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
